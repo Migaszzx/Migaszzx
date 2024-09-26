@@ -1,16 +1,13 @@
-## Hi there 👋
+## SHERNOWS 🤙
 
-<!--
-**Migaszzx/Migaszzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Miguel Santos Nogueira
+- JavaScript
+- Organizar e Compartilhar projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ## Contato 📫
+  MiguelNogxs@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  @patowzx
+
+
+![.](https://media1.tenor.com/m/g68GcDz33nAAAAAd/toji-toji-fushiguro.gif)
